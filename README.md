@@ -1,7 +1,7 @@
 # brainfuck
 First things first, I’m not the biggest fan of esoteric languages (the community is really cool, though). It’s one of the many software-related things I’m not the biggest fan of.
 
-That being said, Brainfuck is fun, because it is very notorious and badass, and frankly because it is a very well-crafted [joke](https://esolangs.org/wiki/Joke_language_list)
+That being said, Brainfuck is fun, because it is very notorious and badass, and frankly because it is a very well-crafted [joke](https://esolangs.org/wiki/Joke_language_list).
 
 * [helloWorld.bf](https://github.com/numdar335/brainfuck/blob/main/helloWorld.bf): just a dumb "hello world" program
 * [fakePiCalculator.bf](https://github.com/numdar335/brainfuck/blob/main/fakePiCalculator.bf): it’s actually kinda cool because it doesn’t perform **any** pi-related calculations whatsoever but if you claim that it does, most people won’t even **think** about proving you wrong, bahahahah
