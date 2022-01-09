@@ -1,5 +1,5 @@
 # brainfuck
-Brainfuck is fun, because it is very notorious and badass, and a very well-crafted [joke](https://esolangs.org/wiki/Joke_language_list).
+Brainfuck is fun, because it is very notorious and badass, and a very well-crafted [joke](https://esolangs.org/w/index.php?title=Joke_language_list&oldid=91439).
 
 * [helloWorld.bf](https://github.com/numdar335/brainfuck/blob/main/helloWorld.bf): just a dumb "hello world" program
 * [fakePiCalculator.bf](https://github.com/numdar335/brainfuck/blob/main/fakePiCalculator.bf): it’s actually kinda cool because it doesn’t perform **any** pi-related calculations whatsoever but if you claim that it does, most people won’t even **think** about proving you wrong, bahahahah
